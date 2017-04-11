@@ -25,3 +25,5 @@ This is a trivial Java EE 7 sample.
 modif test 1er commit via ETY
 
 modif via le dossier javaee7-simple-sample-1
+
+2eme modif via le dossier javaee7-simple-sample-1
