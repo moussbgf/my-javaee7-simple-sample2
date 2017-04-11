@@ -24,6 +24,15 @@ This is a trivial Java EE 7 sample.
 
 modif test 1er commit via ETY
 
+
+conflit suite au merge entre master et develop via sample-2 :
+
+<<<<<<< HEAD
 modif via branche hotfix sample-1
 
 2eme modif via branche hotfix sample-1
+=======
+modif via le dossier javaee7-simple-sample-1
+
+2eme modif via le dossier javaee7-simple-sample-1
+>>>>>>> develop
